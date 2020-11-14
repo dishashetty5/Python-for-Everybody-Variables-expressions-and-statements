@@ -1,6 +1,7 @@
 # Python-for-Everybody-Variables-expressions-and-statements
 value:
 A value is one of the basic things a program works with, like a letter or a number.
+
 variables:
 One of the most powerful features of a programming language is the ability to
 manipulate variables. A variable is a name that refers to a value.
